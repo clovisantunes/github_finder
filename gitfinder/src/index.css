@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "inter",sans-serif;
+  color: #fff;
+}
+
+body{
+  background-color: #0e1129;
+  padding: 2rem;
+}
+
+a{
+  text-decoration: none;
+}
