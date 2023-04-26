@@ -1,3 +1,3 @@
 # github_finder 
 
-##Projeto para estudo/treino em TypeScript
+## Projeto para estudo/treino em TypeScript
